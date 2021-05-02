@@ -1,0 +1,1 @@
+MongoDB: mongodb+srv://gbhatt19:<password>@mongodbmern.9ttig.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
